@@ -4,7 +4,7 @@ ToxinPred is a computational tool developed to predict, design, and scan toxic p
 
 This resource is useful for peptide/protein-based drug discovery because toxicity is one of the major limitations in developing therapeutic peptides and proteins.
 
-Web Server: http://crdd.osdd.net/raghava/toxinpred/
+Web Server: (https://webs.iiitd.edu.in/raghava/toxinpred/)
 
 
 
@@ -14,7 +14,7 @@ Gupta, S., Kapoor, P., Chaudhary, K., Gautam, A., Kumar, R., Open Source Drug Di
 
 https://doi.org/10.1371/journal.pone.0073957
 
-This tool and dataset is also available on Zenodo at https://doi.org/10.5281/zenodo.20083963
+This tool and dataset is also available on Zenodo at https://doi.org/10.5281/zenodo.20151860
 
 
 ## About the Research
